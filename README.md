@@ -1,4 +1,4 @@
-# 440-Computer-Architecture-MIPS-Assembly-Programs
+# 240-Computer-Architecture-MIPS-Assembly-Programs
 
 Repository for coding assignments in my 440 Computer Architecture Class.
 
